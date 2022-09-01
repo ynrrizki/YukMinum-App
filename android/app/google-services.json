@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859673456829",
+    "project_id": "yukminum-app",
+    "storage_bucket": "yukminum-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859673456829:android:117cfbecbe01056c7107d4",
+        "android_client_info": {
+          "package_name": "com.example.yukminum_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859673456829-bs2li0urt7j4ecscui49e04fulrhl8ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd9_QuEE5xwFCa4rKdJJc2lcue_NHxo7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859673456829-bs2li0urt7j4ecscui49e04fulrhl8ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
